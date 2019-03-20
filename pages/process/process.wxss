@@ -1,0 +1,53 @@
+.cont2 {
+  width: 100%;
+  height: 730px;
+  background: url('http://10168245.h40.faiusr.com/2/11/ACgIABACGAAg3OPpyQUomMT-RjCABTjADA.jpg') no-repeat;
+  background-size: 100% 100%;
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+}
+
+.time {
+  padding: 30rpx 0;
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+}
+
+.user {
+  width: 180rpx;
+  height: 180rpx;
+  background: url('http://www.beetobees.com/play/tpl_valley/EDC59O58/resource/assets/score.png?t=1553074088289') no-repeat;
+  background-size: 100%;
+  margin-top: -80rpx;
+  margin-left: 20rpx;
+  text-align: center;
+  line-height: 230rpx;
+  font-size: 36px;
+  color: #fff;
+}
+
+.box {
+  width: 400rpx;
+  height: 450rpx;
+  text-align: center;
+  margin: 400rpx auto 0rpx;
+  -webkit-animation: roundRule 2.5s ease-in-out infinit;
+}
+
+.box image {
+  width: 100%;
+  height: 100%;
+}
+
+/* .animation {
+  -webkit-animation: roundRule 2.5s ease-in-out infinit;
+} */
+
+@keyframes roundRule {
+  0%, 100% {
+    -webkit-transform: rotate(-15deg);
+  }
+  50% {
+    -webkit-transform: rotate(15deg);
+  }
+}

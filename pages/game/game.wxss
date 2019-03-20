@@ -1,0 +1,33 @@
+/* pages/game/game.wxss */
+
+.cont{
+  width: 100%;
+  height: auto;
+  background: url('http://10168245.h40.faiusr.com/2/11/ACgIABACGAAg0eLpyQUouJ7krgYwgAU4wAw.jpg') no-repeat;
+  background-size: 100% auto;
+  /* background-attachment: fixed; */
+}
+.img{
+  text-align: center;
+}
+.titiel{
+  width: 750rpx;
+  height: 390rpx;
+  margin-top: 40rpx;
+}
+.cishu{
+  font-size: 36rpx;
+  text-align: center; 
+  margin-top:550rpx;
+  color: rgb(255, 62, 7);
+  text-shadow: rgb(255, 255, 255) -1px -1px 0px, rgb(255, 255, 255) 0px -1px 0px, rgb(255, 255, 255) 1px -1px 0px, rgb(255, 255, 255) 1px 0px 0px, rgb(255, 255, 255) 1px 1px 0px, rgb(255, 255, 255) 0px 1px 0px, rgb(255, 255, 255) -1px 1px 0px, rgb(255, 255, 255) -1px 0px 0px
+}
+.btn{
+  text-align: center;
+  margin-top:30rpx;
+  padding-bottom:100rpx; 
+}
+.btn-1{
+  width: 300rpx;
+  height: 100rpx;
+}

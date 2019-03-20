@@ -1,0 +1,10 @@
+<view class='cont2'>
+  <view class='time'>倒计时：{{time}}</view>
+  <view class='user'>
+    10
+  </view>
+  <view class='box'>
+    <image  bindtap="tiao" src='{{imgUrl}}'></image>
+    <!-- <image bindtap="tiao" src='{{imgUrl}}'></image> -->
+  </view>
+</view>

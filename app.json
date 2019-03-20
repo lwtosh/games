@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/game/game",
+    "pages/process/process",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "鲤鱼跳龙门",
+    "navigationBarTextStyle":"black"
+  }
+}

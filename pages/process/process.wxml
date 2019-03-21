@@ -4,7 +4,7 @@
     10
   </view>
   <view class='box'>
-    <image  bindtap="tiao" src='{{imgUrl}}'></image>
-    <!-- <image bindtap="tiao" src='{{imgUrl}}'></image> -->
+    <image  bindtap="tiao" src='{{imgUrl}}'   animation="{{animationMidd }}"></image>
+    <!-- <image bindtap="tiao" src='{{!imgUrl}}' animation="{{animationMidd}}"></image> -->
   </view>
 </view>

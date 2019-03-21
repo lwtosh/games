@@ -31,7 +31,7 @@
   height: 450rpx;
   text-align: center;
   margin: 400rpx auto 0rpx;
-  -webkit-animation: roundRule 2.5s ease-in-out infinit;
+  animation: roundRule 2.5s ease-in-out infinit;
 }
 
 .box image {
@@ -47,6 +47,7 @@
   0%, 100% {
     -webkit-transform: rotate(-15deg);
   }
+
   50% {
     -webkit-transform: rotate(15deg);
   }

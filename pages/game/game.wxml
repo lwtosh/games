@@ -1,7 +1,6 @@
 <view class='cont'>
   <view class='img'>
     <image class='titiel' src='../../asset/title.png'></image>
-    <!-- <image class='user' src='../../asset/yu.png'></image> -->
   </view>
   <view class='cishu'>您有2次机会哦！</view>
   <view class='btn'>

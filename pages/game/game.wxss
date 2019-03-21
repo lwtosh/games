@@ -1,11 +1,9 @@
-/* pages/game/game.wxss */
 
 .cont{
   width: 100%;
   height: auto;
   background: url('http://10168245.h40.faiusr.com/2/11/ACgIABACGAAg0eLpyQUouJ7krgYwgAU4wAw.jpg') no-repeat;
   background-size: 100% auto;
-  /* background-attachment: fixed; */
 }
 .img{
   text-align: center;
